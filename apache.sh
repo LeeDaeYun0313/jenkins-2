@@ -4,4 +4,4 @@ cat > /var/www/html/index.html <<END
 <html><body><h1>apache-aws-jenkins</h1></body></html>
 END
 systemctl start httpd
-echo "bye"
+echo "bye1"
